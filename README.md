@@ -8,7 +8,7 @@ https://github.com/Riyzzhy/StockPrediction/edit/main/README.md
 
 There are several ways of editing your application.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via Vercel will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
